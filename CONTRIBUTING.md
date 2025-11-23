@@ -1,17 +1,17 @@
-# Contributing to LLVM
+# CONTRIBUTING TO GLACIEREQ
 
-Thank you for your interest in contributing to LLVM! There are many ways to
-contribute, and we appreciate all contributions.
+**⚠️ LEGAL WARNING: READ BEFORE COMMITTING**
 
-To get started with contributing, please take a look at the
-[Contributing to LLVM](https://llvm.org/docs/Contributing.html) guide. It
-describes how to get involved, raise issues and submit patches.
+This repository contains **CONFIDENTIAL & PROPRIETARY** source code owned by Glaciereq.
 
-## Getting in touch
+### 1. NO OPEN SOURCE LEAKS
+*   Do NOT upload code to public repos.
+*   Do NOT copy-paste code into public AI models.
 
-Join the [LLVM Discourse forums](https://discourse.llvm.org/), [Discord
-chat](https://discord.gg/xS7Z362), or #llvm IRC channel on
-[OFTC](https://oftc.net/).
+### 2. LICENSE COMPLIANCE
+*   Strictly NO GPL/AGPL libraries allowed.
+*   Only MIT/Apache/BSD permitted.
 
-The LLVM project has adopted a [code of conduct](https://llvm.org/docs/CodeOfConduct.html) for
-participants to all modes of communication within the project.
+### 3. IP ASSIGNMENT
+*   All code is Work Made for Hire.
+*   You assign all copyright to Glaciereq upon commit.
